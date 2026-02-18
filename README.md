@@ -1,4 +1,4 @@
 # Nirdesh-s-first-project
 This is my first github repository.
 <br>
-Author - Nirdesh Barmon
+Author - Nirdesh Barmon (student)
